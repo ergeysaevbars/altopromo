@@ -141,3 +141,4 @@
 [2020-07-11 19:12:52] security.DEBUG: User was reloaded from a user provider. {"provider":"PrestaShopBundle\\Security\\Admin\\EmployeeProvider","username":"ergeysaevbars@mail.ru"} []
 [2020-07-11 19:12:58] app.ERROR: Data from PrestaShop Addons is invalid, and cannot fallback on cache.  {"exception":"cURL error 28: Operation timed out after 5000 milliseconds with 948546 bytes received"} []
 [2020-07-11 19:12:58] security.DEBUG: Stored the security token in the session. {"key":"_security_main"} []
+[2020-07-11 20:06:54] request.CRITICAL: Uncaught PHP Exception Symfony\Component\Debug\Exception\FatalThrowableError: "Parse error: syntax error, unexpected ','" at D:\OSPanel\domains\altopromo\modules\ps_banner\ps_banner.php line 191 {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Parse error: syntax error, unexpected ',' at D:\\OSPanel\\domains\\altopromo\\modules\\ps_banner\\ps_banner.php:191)"} []
