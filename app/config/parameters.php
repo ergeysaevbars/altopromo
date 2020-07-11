@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'altopromo',
+    'database_user' => 'root',
+    'database_password' => '',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'skses3FHbUiSMLBXyRE2aW6S7h583rVA0dvryX605F7maUxEAEkmmxCS',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2020-07-10',
+    'locale' => 'ru-RU',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'Ko3gUiFOShekeCVCsm0zZkQGFyktOwWuAagJmkmnRLqpoa401VuTPqDJ',
+    'cookie_iv' => 'M4G5Rr4n',
+    'new_cookie_key' => 'def00000dc076f75899f62477490f05151eb991a7c59d2260eddc659c28c10ceaad203f048b8f009a7fc76ed91edcd3c0f8227f8fb259cc36f97358778d8db9db93ef0f6',
+  ),
+);
